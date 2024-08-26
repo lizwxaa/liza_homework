@@ -1,0 +1,32 @@
+body{
+}
+
+.inline-blocks{
+    width: 45%;
+    display: inline-block;
+}
+
+.site-header {
+    color: rgba(61, 61, 61, 1);
+    font-weight: 900;
+    font-size: 70px;
+}
+
+.green-text {
+    color: rgb(70 163 88);
+}
+
+.shop-now-button{
+    background-color: rgb(70 163 88);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    color: white;
+    border: none;
+    height: 40px;
+    width: 140px;
+    border-radius: 10px;
+}
+
+.left-main-block{
+    margin-left: 10px
