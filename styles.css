@@ -1,7 +1,7 @@
 body{
 }
 
-.my-blocks{
+.inline-blocks{
     width: 45%;
     display: inline-block;
 }
@@ -26,8 +26,4 @@ body{
     height: 40px;
     width: 140px;
     border-radius: 10px;
-}
-
-.left-main-block{
-    margin-left: 10px;
 }
